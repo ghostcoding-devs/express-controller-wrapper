@@ -1,0 +1,23 @@
+{
+  "name": "express-controller-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test.js",
+    "dev": "nodemon node example/index.js"
+  },
+  "author": "GhostCoder",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1",
+    "nodemon": "^2.0.2",
+    "sinon": "^8.1.1",
+    "sinon-chai": "^3.4.0"
+  }
+}
