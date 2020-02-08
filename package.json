@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghostcoding-devs/express-controller-wrapper.git"
+  },
   "scripts": {
     "test": "mocha test.js",
     "dev": "nodemon node example/index.js"
