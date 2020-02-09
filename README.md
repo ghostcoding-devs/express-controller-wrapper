@@ -1,9 +1,12 @@
-# Express-controller-wrapper
+# Gc-Express-controller-wrapper
+
+This little library automatically wraps your controller functions into a try catch block and calls the next function when an error occurs with the thrown error data.
+
 
 ### Installation
 
 ```
-npm install express-controller-wrapper
+npm install gc-express-controller-wrapper
 ```
 
 ### Usage
