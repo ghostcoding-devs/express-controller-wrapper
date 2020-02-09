@@ -3,7 +3,7 @@
 ### Installation
 
 ```
-npm install express-controller-wrapper
+npm install gc-express-controller-wrapper
 ```
 
 ### Usage
